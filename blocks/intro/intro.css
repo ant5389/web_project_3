@@ -1,4 +1,13 @@
 @import url(./__bold-accent/intro__bold-accent.css);
 @import url(./__list/intro__list.css);
-@import url(./__text/intro__title.css);
+@import url(./__text/intro__text.css);
 @import url(./__title/intro__title.css);
+@import url(./__subtitle/intro__subtitle.css);
+
+.intro {
+  margin-top: 64px;
+  margin-left: 10%;
+  margin-right: auto;
+  padding: 0;
+  width: 55%;
+}
