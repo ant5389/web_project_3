@@ -4,5 +4,15 @@
 @import url(./__title/cover__title.css);
 
 .cover {
-    
+    position: relative;
+    margin: 92px 0 0 0;
+    padding: 0;
+    display: flex;
+    object-fit: cover;
+    justify-content: center;
+    align-items: center;
+}
+
+.cover:hover {
+    opacity: 0.5;
 }
