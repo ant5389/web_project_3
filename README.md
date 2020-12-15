@@ -2,19 +2,17 @@
 
 ### Overview
 * Intro
-* Figma
-* Images
+* Techniques
+* Project
 
 **Intro**
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This project is about cycling across the northern US. It contains information about various stops and sightseeing locations along the way. There is a grid layout of many pictures taken.  Each location also has a helpful link to useful hiking gear, national wildlife resources, and even a theme park.
 
-**Figma**
+**Techniques**
 
-* [Link to the project on Figma](https://www.figma.com/file/xM9rNsdK4iNcFJmDZho3Aw/Sprint-3%3A-From-Portland-to-Portland-%2F-desktop-%2B-mobile?node-id=500%3A0)
+The techniques used to create this page include a grid layout for viewing photos, a color scheme that is easy on the eyes, and tinting when certain links are hovered over.  The page also accomodates several screen sizes from desktop computers down to smartphones with a responsive web design.
 
-**Images**
+**Project**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-
-Good luck and have fun!
+* [Link to the project](https://ant5389.github.io/web_project_3/)
