@@ -4,8 +4,8 @@
 @import url(./__title/lead__title.css);
 
 .lead {
-    max-width: 80%;
     margin: 58px auto 0 auto;
+    padding: 0 148px;
 }
 
 @media screen and (max-width: 1280px) {
