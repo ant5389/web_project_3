@@ -3,14 +3,13 @@
 @import url(./__subtitle/lead__subtitle.css);
 @import url(./__title/lead__title.css);
 .lead {
-    margin: 58px auto 0 auto;
+    margin: 0 auto;
     padding: 0 148px;
 }
 
 @media screen and (max-width: 1279px) {
     .lead {
         padding: 0 48px;
-        margin-top: 50px;
     }
 }
 

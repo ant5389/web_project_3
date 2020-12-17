@@ -2,9 +2,10 @@
 @import url(./__lang-link/header__lang-link.css);
 @import url(./__lang-link/_active/header__lang-link_active.css);
 .header {
-    margin: 0 auto;
+    margin: 0 auto 58px auto;
     padding: 34px 148px 0 148px;
     max-width: 1280px;
+    box-sizing: border-box;
     display: flex;
     justify-content: space-between;
 }
@@ -12,6 +13,7 @@
 @media screen and (max-width: 1279px) {
     .header {
         padding: 34px 48px 0 48px;
+        margin-bottom: 50px;
     }
 }
 
