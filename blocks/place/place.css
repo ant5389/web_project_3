@@ -9,13 +9,28 @@
     margin: 0 0 80px 0;
     padding: 0;
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 460px auto;
     grid-template-rows: auto;
     grid-column-gap: 40px;
 }
 
 .place:last-of-type {
     margin-bottom: 0;
+}
+
+@media screen and (max-width: 1279px) {
+    .place {
+        grid-template-columns: 440px auto;
+        grid-column-gap: 32px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .place {
+        grid-template-columns: 340px auto;
+        grid-column-gap: 23px;
+        margin-bottom: 73px;
+    }
 }
 
 @media screen and (max-width: 767px) {
