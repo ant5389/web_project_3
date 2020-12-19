@@ -28,14 +28,14 @@
     opacity: 0.8;
 }
 
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
+@media screen and (max-width: 1279px) {
     .cover {
         margin: 92px 0 0 0;
         padding: 20vh 0;
     }
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+@media screen and (max-width: 1023px) {
     .cover {
         background-size: cover;
         margin: 89px 0 0 0;
@@ -43,7 +43,7 @@
     }
 }
 
-@media screen and (min-width: 320px) and (max-width: 767px) {
+@media screen and (max-width: 767px) {
     .cover {
         background-size: cover;
         margin: 65px 0 0 0;
